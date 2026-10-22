@@ -1,0 +1,153 @@
+РЕЗУЛЬТАТЫ АНАЛИЗА ТОНАЛЬНОСТИ
+Модель: distilbert/distilbert-base-uncased-finetuned-sst-2-english
+
+Отзыв №1
+Текст: The application works perfectly. I use it every day.
+Тональность: POSITIVE
+Уверенность: 99.98%
+
+Отзыв №2
+Текст: The delivery was late, and the package was damaged.
+Тональность: NEGATIVE
+Уверенность: 99.97%
+
+Отзыв №3
+Текст: The product is acceptable, but nothing special.
+Тональность: NEGATIVE
+Уверенность: 98.69%
+
+Отзыв №4
+Текст: Excellent customer support and fast service!
+Тональность: POSITIVE
+Уверенность: 99.99%
+
+Отзыв №5
+Текст: The software crashes every time I open it.
+Тональность: NEGATIVE
+Уверенность: 99.97%
+
+Отзыв №6
+Текст: I love this product. It is easy to use.
+Тональность: POSITIVE
+Уверенность: 99.98%
+
+Отзыв №7
+Текст: The battery lasts a very long time.
+Тональность: NEGATIVE
+Уверенность: 98.67%
+
+Отзыв №8
+Текст: The customer service was rude and unhelpful.
+Тональность: NEGATIVE
+Уверенность: 99.95%
+
+Отзыв №9
+Текст: The quality is poor, and I regret buying it.
+Тональность: NEGATIVE
+Уверенность: 99.97%
+
+Отзыв №10
+Текст: Everything arrived on time and in perfect condition.
+Тональность: POSITIVE
+Уверенность: 99.96%
+
+Отзыв №11
+Текст: The application is simple and convenient.
+Тональность: POSITIVE
+Уверенность: 99.93%
+
+Отзыв №12
+Текст: I am disappointed with this purchase.
+Тональность: NEGATIVE
+Уверенность: 99.98%
+
+Отзыв №13
+Текст: The price is reasonable for the quality.
+Тональность: POSITIVE
+Уверенность: 99.75%
+
+Отзыв №14
+Текст: This is the worst service I have ever received.
+Тональность: NEGATIVE
+Уверенность: 99.98%
+
+Отзыв №15
+Текст: The product works exactly as described.
+Тональность: POSITIVE
+Уверенность: 99.93%
+
+Отзыв №16
+Текст: It is okay, but I expected something better.
+Тональность: NEGATIVE
+Уверенность: 50.31%
+
+Отзыв №17
+Текст: The instructions are confusing and incomplete.
+Тональность: NEGATIVE
+Уверенность: 99.97%
+
+Отзыв №18
+Текст: I would definitely recommend this product.
+Тональность: POSITIVE
+Уверенность: 99.95%
+
+Отзыв №19
+Текст: The website is slow and difficult to navigate.
+Тональность: NEGATIVE
+Уверенность: 99.98%
+
+Отзыв №20
+Текст: Fantastic experience! I will buy it again.
+Тональность: POSITIVE
+Уверенность: 99.99%
+
+Отзыв №21
+Текст: The product is neither good nor bad.
+Тональность: NEGATIVE
+Уверенность: 98.49%
+
+Отзыв №22
+Текст: I had to wait for hours to get help.
+Тональность: NEGATIVE
+Уверенность: 99.88%
+
+Отзыв №23
+Текст: The design is beautiful and modern.
+Тональность: POSITIVE
+Уверенность: 99.99%
+
+Отзыв №24
+Текст: It stopped working after two days.
+Тональность: NEGATIVE
+Уверенность: 99.97%
+
+Отзыв №25
+Текст: The service was quick, friendly, and professional.
+Тональность: POSITIVE
+Уверенность: 99.96%
+
+Отзыв №26
+Текст: I thought this product would be better.
+Тональность: NEGATIVE
+Уверенность: 99.83%
+
+Отзыв №27
+Текст: Oh great, another update that breaks everything.
+Тональность: POSITIVE
+Уверенность: 99.84%
+
+Отзыв №28
+Текст: The app is not bad, but it could be improved.
+Тональность: POSITIVE
+Уверенность: 90.78%
+
+Отзыв №29
+Текст: I have used this product for several months, and it continues to work reliably every day.
+Тональность: POSITIVE
+Уверенность: 99.91%
+
+Отзыв №30
+Текст: The delivery was fast, but the item was damaged and customer support did not help me.
+Тональность: NEGATIVE
+Уверенность: 99.95%
+

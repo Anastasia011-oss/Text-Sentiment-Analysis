@@ -1,0 +1,31 @@
+﻿Text,Sentiment,Confidence (%)
+The application works perfectly. I use it every day.,POSITIVE,99.98
+"The delivery was late, and the package was damaged.",NEGATIVE,99.97
+"The product is acceptable, but nothing special.",NEGATIVE,98.69
+Excellent customer support and fast service!,POSITIVE,99.99
+The software crashes every time I open it.,NEGATIVE,99.97
+I love this product. It is easy to use.,POSITIVE,99.98
+The battery lasts a very long time.,NEGATIVE,98.67
+The customer service was rude and unhelpful.,NEGATIVE,99.95
+"The quality is poor, and I regret buying it.",NEGATIVE,99.97
+Everything arrived on time and in perfect condition.,POSITIVE,99.96
+The application is simple and convenient.,POSITIVE,99.93
+I am disappointed with this purchase.,NEGATIVE,99.98
+The price is reasonable for the quality.,POSITIVE,99.75
+This is the worst service I have ever received.,NEGATIVE,99.98
+The product works exactly as described.,POSITIVE,99.93
+"It is okay, but I expected something better.",NEGATIVE,50.31
+The instructions are confusing and incomplete.,NEGATIVE,99.97
+I would definitely recommend this product.,POSITIVE,99.95
+The website is slow and difficult to navigate.,NEGATIVE,99.98
+Fantastic experience! I will buy it again.,POSITIVE,99.99
+The product is neither good nor bad.,NEGATIVE,98.49
+I had to wait for hours to get help.,NEGATIVE,99.88
+The design is beautiful and modern.,POSITIVE,99.99
+It stopped working after two days.,NEGATIVE,99.97
+"The service was quick, friendly, and professional.",POSITIVE,99.96
+I thought this product would be better.,NEGATIVE,99.83
+"Oh great, another update that breaks everything.",POSITIVE,99.84
+"The app is not bad, but it could be improved.",POSITIVE,90.78
+"I have used this product for several months, and it continues to work reliably every day.",POSITIVE,99.91
+"The delivery was fast, but the item was damaged and customer support did not help me.",NEGATIVE,99.95
